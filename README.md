@@ -14,3 +14,14 @@ The exercises provided practical experience with password hashes, wordlist-based
 I carried out these activities only on files provided for cybersecurity training purposes as part of my NetworkWalks internship. These exercises are intended for educational purposes only. Password-cracking techniques should only be used on files, systems, or accounts that you own or have explicit permission to test.
 
 
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|---|---|
+| Kali Linux | Operating system used to run John the Ripper for password cracking |
+| John the Ripper (john) | Cracks the extracted PDF hash using its built-in wordlist |
+| pdf2john | Extracts a crackable hash from the password-protected PDF |
+| Networkwalks Hash Calculator | Web tool used to extract the PDF hash without any installation |
+| Networkwalks Password Cracker | Web tool used to run a dictionary attack against the extracted hash |
+
+
