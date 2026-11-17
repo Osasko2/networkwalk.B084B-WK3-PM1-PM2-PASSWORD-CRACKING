@@ -33,19 +33,19 @@ File: My Locked PDF1.pdf
 
 I used John the Ripper in Kali Linux to crack the password of the protected PDF. The exercise involved extracting the PDF hash and passing it to John the Ripper for password recovery.
 
-# Step 1 — Extract the hash
+Step 1 — Extract the hash
 
 I used pdf2john to extract the password hash from the protected PDF and saved the output for use with John the Ripper.
 
 pdf2john "My Locked PDF1.pdf" > pdf_hash.txt
 
-# Step 2 — Run John the Ripper
+Step 2 — Run John the Ripper
 
 The extracted hash was passed to John the Ripper for password cracking.
 
 john pdf_hash.txt
 
-# Step 3 — Display the Recovered Password
+Step 3 — Display the Recovered Password
 
 I used the --show option to display the recovered password.
 
@@ -55,7 +55,8 @@ The result showed that 1 password hash was cracked and 0 remained.
 
 Recovered password: good-luck
 
-# Step 4 — Verify the Password
+Step 4 — Verify the Password
 
 The recovered password was entered into My Locked PDF1.pdf to confirm that it successfully unlocked the file.
 
+## Results
