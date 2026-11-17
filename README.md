@@ -66,7 +66,7 @@ The recovered password was entered into My Locked PDF1.pdf to confirm that it su
 
 ![My Image](https://github.com/Osasko2/networkwalk.B084B-WK3-PM1-PM2-PASSWORD-CRACKING/blob/1063de2b2db0fac0f74ada773d492752890af3ba/hash%202.jpeg)
 
-![My Image](chef.jpg)
+![My Image](https://github.com/Osasko2/networkwalk.B084B-WK3-PM1-PM2-PASSWORD-CRACKING/blob/49313a52a36eb0bde96c58e220c90c6762293aaf/pdf2%20cracked.jpeg)
 
 ![My Image](chef.jpg)
 
