@@ -77,3 +77,26 @@ The recovered password was entered into My Locked PDF1.pdf to confirm that it su
 | Password hashes can be tested offline | The PDF hashes were extracted and used for password recovery | If an attacker obtains a password hash, they may attempt offline cracking |
 
 These findings are based on controlled cybersecurity training exercises and do not represent an assessment of a real-world system.
+
+
+## 💡 Recommendations
+Use long and unique passwords for protecting sensitive files.
+Avoid common words, phrases, and predictable password patterns.
+Use strong passphrases or randomly generated passwords.
+Avoid reusing passwords across different files and accounts.
+Consider using a password manager to generate and store strong passwords.
+Use additional security controls where available, such as encryption and multi-factor authentication.
+Only perform password-cracking activities on files or systems where proper authorization has been given
+## 🎓 Conclusion
+During Week 3 of my Cybersecurity internship at NetworkWalks, I completed two practical password-cracking exercises.
+
+In W3-PM1, I used pdf2john and John the Ripper in Kali Linux to extract and crack the password hash of My Locked PDF1.pdf. The recovered password was good-luck, and I verified that it successfully unlocked the PDF.
+
+In W3-PM2, I used the NetworkWalks Hash Calculator and NetworkWalks Password Cracker with My Locked PDF2.pdf. The recovered password was password1, which was also successfully verified.
+
+These exercises helped me understand the practical process of extracting password hashes, using password-cracking tools, and the importance of strong passwords when protecting sensitive files.
+
+## 👤 Author
+EFOSA OSAWARU--- Cybersecurity Intern B084B
+
+
