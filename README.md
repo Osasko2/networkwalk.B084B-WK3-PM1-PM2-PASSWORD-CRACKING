@@ -60,7 +60,7 @@ Step 4 — Verify the Password
 The recovered password was entered into My Locked PDF1.pdf to confirm that it successfully unlocked the file.
 
 ## Results
-![My Image](chef.jpg)
+![My Image](https://github.com/Osasko2/networkwalk.B084B-WK3-PM1-PM2-PASSWORD-CRACKING/blob/174fc33dbc2a2dfbff0c3cbb48cef270cc6717d5/Hash%201.jpeg)
 
 ![My Image](chef.jpg)
 
