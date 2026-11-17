@@ -60,3 +60,20 @@ Step 4 — Verify the Password
 The recovered password was entered into My Locked PDF1.pdf to confirm that it successfully unlocked the file.
 
 ## Results
+
+
+
+
+
+
+
+
+## 🔍 Risk Analysis and Impact
+
+| Finding | Evidence | Potential Impact |
+|---|---|---|
+| Weak password protection | The password good-luck was recovered from the first protected PDF using JTR | Weak passwords can be vulnerable to password-cracking techniques |
+| Predictable password | The password password1 was recovered from the second protected PDF | Common or predictable passwords can make protected files easier to access |
+| Password hashes can be tested offline | The PDF hashes were extracted and used for password recovery | If an attacker obtains a password hash, they may attempt offline cracking |
+
+These findings are based on controlled cybersecurity training exercises and do not represent an assessment of a real-world system.
